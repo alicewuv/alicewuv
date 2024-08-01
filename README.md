@@ -49,7 +49,6 @@ Discord Bot
 
 **Let's Connect!**
 
-<a href="https://x.com/allicethecatsss"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" height="40"/></a>
 <a href="https://discord.com/users/allicethecatsss"><img src="https://simpleicons.org/icons/discord.svg" width="40" height="40"/></a>
 
 </div>
